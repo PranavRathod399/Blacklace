@@ -14,11 +14,11 @@ Due to limited access to graphene-based materials, this work simulates their sig
 
 ## 📁 Repository Contents
 
-| File/Folder                              | Description                                         |
-|------------------------------------------|-----------------------------------------------------|
-| `Progress Update & Concept Summary –BCI -AI_250416_205231.pdf` | Concept summary and project update                 |
-| `simulations/`                            | Planned architecture and pseudocode (coming soon) |
-| `concept_notes/`                          | Notes, signal interpretation ideas, and diagrams (to be added) |
+| File/Folder | Description |
+|-------------|-------------|
+| [Progress Update & Concept Summary –BCI -AI_250416_205231.pdf](https://github.com/PranavRathod399/BCI_graphene_prototype/raw/main/Progress%20Update%20%26%20Concept%20Summary%20%E2%80%93BCI%20-AI_250416_205231.pdf) | Concept summary and project update |
+| `simulations/` | Planned architecture and pseudocode (coming soon) |
+| `concept_notes/` | Notes, signal interpretation ideas, and diagrams (to be added) |
 
 ---
 
