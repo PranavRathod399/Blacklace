@@ -78,7 +78,11 @@ This project is licensed under the MIT License.
 Feel free to explore, reference, or build upon the work with attribution.
 
 ---
+## About the Author
 
+I'm a 19-year-old independent learner from India with a strong interest in brain-computer interfaces, neurotechnology, and AI signal decoding. This project is my attempt to build meaningful contributions from first principles—by learning, simulating, and creating with what’s available.
+
+---
 ## Author
 
 **Pranav Rathod**  
