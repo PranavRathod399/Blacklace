@@ -16,7 +16,7 @@ Due to limited access to graphene-based materials, this work simulates their sig
 
 | File/Folder                              | Description                                         |
 |------------------------------------------|-----------------------------------------------------|
-| `pranav-rathod_BCI-prototype-summary.pdf` | Concept summary and project update                 |
+| `Progress Update & Concept Summary –BCI -AI_250416_205231.pdf` | Concept summary and project update                 |
 | `simulations/`                            | Planned architecture and pseudocode (coming soon) |
 | `concept_notes/`                          | Notes, signal interpretation ideas, and diagrams (to be added) |
 
