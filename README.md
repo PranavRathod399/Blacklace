@@ -22,13 +22,25 @@ Due to limited access to graphene-based materials, this work simulates their sig
 
 ---
 
-## 🚀 Next Steps  
-- Improve the amplification simulation and test on EEG data  
-- Build a mapping strategy from signal patterns to intent  
-- Explore academic collaboration to validate the approach  
+### Next Steps
+
+- Build a mapping strategy to correlate EEG signals with cognitive intent using AI models.
+- Refine the simulated amplification layer for more realistic behavior.
+- Evaluate performance improvements compared to unamplified data.
+- Continue studying neural signal preprocessing techniques based on open-source datasets.  
 
 ---
+### Usage
 
+This repository is currently under active development. Future updates will include signal processing scripts, training datasets, and concept simulation code.
+---
+### References
+
+- Willett, F. R., et al. (2023). "A high-performance speech neuroprosthesis." *Nature*. [Read the paper](https://www.nature.com/articles/s41586-023-06502-7)
+- Neural data used from: [Dryad dataset](https://doi.org/10.5061/dryad.x69p8czpq)
+- Codebase reference: [Speech BCI GitHub](https://github.com/fwillett/speechBCI)
+---
+For now, explore the `concept_notes/` folder for documentation and design rationale.
 ## 📬 Contact  
 **Pranav Rathod**  
 **Email:** [pranavr399@gmail.com](mailto:pranavr399@gmail.com)  
