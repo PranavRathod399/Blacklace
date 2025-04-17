@@ -23,6 +23,11 @@ The direction of this work has been inspired by responses and support from **Dr.
 - `/simulations/` – (Coming soon) Signal processing scripts and amplification models.
 - `/docs/` – Diagrams and flowcharts (to be added).
 - `README.md` – Project summary and development roadmap.
+---
+
+## Simulations
+The `simulations/` folder contains modules for modeling the signal amplification behavior of graphene.  
+Currently includes a placeholder for `graphene_amplifier_sim.py`, which will simulate high-conductivity, low-noise amplification to improve EEG signal quality.
 
 ---
 
