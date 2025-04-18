@@ -32,20 +32,28 @@ Reference support includes:
 - [Willett et al. RNN Decoder GitHub](https://github.com/fwillett/speechBCI)
 
 ---
-
 ## ⚙️ System Architecture
 
-```mermaid
-graph TD;
-    A[EEG Data Input (real/simulated)] --> B(Graphene Amplifier Simulation)
-    B --> C(Preprocessing & Noise Reduction)
-    C --> D(Deep Learning Model - CNN / RNN)
-    D --> E(Output: Action or Thought Prediction)
-    E --> F(Real-World Application: Cursor / Speech / Prosthetic)
+```
+[EEG Data Input (real/simulated)]
+                |
+                v
+[Graphene Amplifier Simulation]
+                |
+                v
+[Preprocessing & Noise Reduction]
+                |
+                v
+[Deep Learning Model (CNN/RNN)]
+                |
+                v
+[Thought Prediction / Intent Output]
+                |
+                v
+[Applications: Cursor / Text / Prosthetics]
 ```
 
 ---
-
 ## 📂 Repository Structure
 
 ```
