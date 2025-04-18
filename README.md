@@ -7,6 +7,15 @@ Welcome to the official repository for my independent research project focused o
 **Affiliations**: Community-supported | Collaborating with insights from Stanford & CMU open research
 
 ---
+## Table of Contents
+1. [Overview](#project-overview)
+2. [Motivation](#scientific-motivation)
+3. [Architecture](#system-architecture)
+4. [Installation](#installation––running)
+5. [Demo](#demo-output)
+6. [Roadmap](#roadmap)
+7. [Contributing](#contributions–feedback)
+---
 
 ## 🚀 Project Overview
 
