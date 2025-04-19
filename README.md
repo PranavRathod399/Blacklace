@@ -44,22 +44,22 @@ Reference support includes:
 ## ⚙️ System Architecture
 
 ```
-[EEG Data Input (real/simulated)]
+- [x] [EEG Data Input (real/simulated)]
                 |
                 v
-[Graphene Amplifier Simulation]
+- [x] [Graphene Amplifier Simulation] 
                 |
                 v
-[Preprocessing & Noise Reduction]
+- [o] [Preprocessing & Noise Reduction]
                 |
                 v
-[Deep Learning Model (CNN/RNN)]
+- [] [Deep Learning Model (CNN/RNN)]
                 |
                 v
-[Thought Prediction / Intent Output]
+- [] [Thought Prediction / Intent Output]
                 |
                 v
-[Applications: Cursor / Text / Prosthetics]
+- [] [Applications: Cursor / Text / Prosthetics]
 ```
 
 ---
@@ -107,6 +107,44 @@ cd BCI_graphene_prototype
 - [ ] Full BCI prototype UI  
 
 ---
+
+## Phase 2: Real-World Optimization Begins — Interference, Noise & AI Filtering
+
+This marks the beginning of **Phase 2** of the BCI Graphene Prototype — moving beyond basic signal simulation into real-world constraints and optimization.
+
+### Tackling Interference & Signal Noise
+
+Graphene’s extreme sensitivity is a double-edged sword. While it can amplify weak brain signals, it’s also vulnerable to environmental EM noise (WiFi, radio, Bluetooth, etc.).
+
+### Why It Matters
+In practical BCI systems, **noise resilience** is critical. This phase explores strategies to ensure the amplifier doesn't get overwhelmed in real-world settings.
+
+### Strategies Explored
+
+- **Signal Isolation & Shielding**  
+  Simulated physical protections like **Faraday cages** to block external signals.
+
+- **Frequency Filtering**  
+  Implementing **band-pass filters** to isolate neural frequencies (0.5–100 Hz).
+
+- **Graphene-based Adaptive Filtering**  
+  Investigating how graphene’s tunable conductivity could support *smart*, dynamic filtering.
+
+- **AI-Powered Noise Cancellation**  
+  Early-stage conceptual models for training AI to:
+  - Distinguish between real brain signals and interference.
+  - Adapt filtering over time as environments change.
+
+- **Signal Averaging Techniques**  
+  Using multiple time-frame readings to reduce transient noise while preserving meaningful patterns.
+
+### Looking Ahead
+This phase forms the bridge between my materials-level amplifier model and the eventual **AI-powered neural decoding** engine.
+
+Stay tuned for Phase 3 — integrating learning models with the filtered signal stream.
+
+---
+
 
 ## 🤝 Contributions & Feedback
 
