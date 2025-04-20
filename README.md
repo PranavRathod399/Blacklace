@@ -24,9 +24,9 @@ Each piece now operates independently but can integrate into a streamlined pipel
 Blacklace/
 ├── README.md                        # This file
 ├── blackjack/                       # Graphene-based signal amplifier
-│   ├── Amp-files/                   # Phase 1 & 2 code
-│   ├── Images/                      # Signal graphs & SNR plots
-│   └── Notes/                       # Progress Summary and plan details
+│   ├── Amp-files                    # Phase 1 & 2 code
+│   ├── Images                       # Signal graphs & SNR plots
+│   └── Notes                        # Progress Summary and plan details
 ├── blacknet/                        # Planned AI decoder (neural intent)
 │   ├── architecture_outline.md
 │   └── decoder_model_wip.ipynb
