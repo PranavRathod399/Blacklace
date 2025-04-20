@@ -24,9 +24,9 @@ Each piece now operates independently but can integrate into a streamlined pipel
 Blacklace/
 ├── README.md                        # This file
 ├── blackjack/                       # Graphene-based signal amplifier
-│   ├── amplifier_simulation.ipynb   # Phase 1 & 2 code
-│   ├── results/                     # Signal graphs & SNR plots
-│   └── Phase2_Summary.md
+│   ├── Amp-files/                   # Phase 1 & 2 code
+│   ├── Images/                      # Signal graphs & SNR plots
+│   └── Notes/                       # Progress Summary and plan details
 ├── blacknet/                        # Planned AI decoder (neural intent)
 │   ├── architecture_outline.md
 │   └── decoder_model_wip.ipynb
@@ -71,14 +71,14 @@ To create a fully modular BCI system that works **without invasive hardware** or
 
 ## License
 This project is released under a **Non-Commercial License (CC BY-NC 4.0)**. You are free to use, share, and adapt the code and ideas for non-commercial purposes with attribution. For commercial use or licensing inquiries, please contact the author.
-Contact: pranavrathod399@gmail.com
+Contact: pranavr399@gmail.com
 
 ---
 
 ## Author & Contact
 Built by **Pranav Rathod**, age 19 – independent theorist & builder.
 
-Email: pranavrathod399@gmail.com
+Email: pranavr399@gmail.com
 
 > "Let the mind speak — and the machine listen."
 
