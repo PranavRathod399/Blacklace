@@ -16,6 +16,8 @@ This modular vision gave rise to:
 
 Each piece now operates independently but can integrate into a streamlined pipeline—from raw EEG to AI-understood intent.
 
+Previously this project was named BCI_graphene_prototype now that has give rise to this version you can still read the previous ReadMe in project Blackjack.
+
 ---
 
 ## Repository Structure
