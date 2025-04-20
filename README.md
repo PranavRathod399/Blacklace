@@ -105,6 +105,44 @@ cd BCI_graphene_prototype
 - [ ] Signal classification benchmarking  
 - [ ] Graphene hardware exploration (future)  
 - [ ] Full BCI prototype UI  
+---
+## Phase 1 Complete: Graphene Amplifier Simulation Results
+
+**Objective:**  
+To simulate the behavior of a theoretical graphene-based amplifier for EEG signal enhancement, using Python tools and synthetic neural waveforms as a foundation.
+
+**Tools Used:**  
+- Python (Google Colab)  
+- NumPy, Matplotlib, SciPy  
+- Simulated EEG-style signals
+
+**Key Results:**  
+- Modeled basic signal amplification using graphene-inspired properties.  
+- Observed improved amplitude and waveform clarity across signal variations.  
+- Compared input vs. amplified waveforms in both time and frequency domains.  
+- Established a flexible signal pipeline for future integration with neural decoding systems.
+
+**Key Visuals & Outputs:**
+
+### Original EEG Signal (Simulated)
+![Original Signal]()
+
+### Amplified EEG Signal
+![Amplified Signal]()
+
+### Raw vs Amplified Comparison
+![Comparison]()
+
+### SNR Calculation Visualization
+![SNR]()
+
+Full code and simulation in [Graphene_Amplifier1.ipynb](https://github.com/PranavRathod399/BCI_graphene_prototype/blob/main/Graphene_Amplifier1.ipynb)
+
+**Reflection:**  
+This phase validated the feasibility of modeling signal amplification through simulated graphene behavior. The signal pipeline and logic now set the stage for **Phase 2: Filtering, Interference Handling, and AI Integration**.
+
+**Note:**  
+Phase 2 will also incorporate **real EEG datasets** to evaluate how the amplifier behaves on authentic neural signals, enabling more realistic signal-to-noise analysis and preparing the ground for machine learning integration.
 
 ---
 
