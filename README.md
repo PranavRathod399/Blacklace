@@ -24,6 +24,7 @@ Previously this project was named BCI_graphene_prototype now that has give rise 
 **Blacklace** is a boundary-pushing brain-computer interface (BCI) architecture that reimagines neural signal acquisition and interpretation through a graphene-inspired amplifier framework and modular AI decoding. 
 
 Born from a fusion of theoretical physics, material science, and cognitive technology, Blacklace aims to build an open, scalable, and biologically-conscious pathway between brain activity and digital systems—unlocking new possibilities for neurotechnology, communication, and human-computer symbiosis.
+
 ---
 
 ## Repository Structure
