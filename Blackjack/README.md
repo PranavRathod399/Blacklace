@@ -199,7 +199,8 @@ This is an independent, learning-driven project. I'm always open to:
 
 ## ⚖️ License
 
-This project is licensed under the MIT License—open to use, modification, and sharing for non-commercial and educational purposes.
+This project is released under a **Non-Commercial License (CC BY-NC 4.0)**. You are free to use, share, and adapt the code and ideas for non-commercial purposes with attribution. For commercial use or licensing inquiries, please contact the author.
+Contact: pranavr399@gmail.com
 
 ---
 
