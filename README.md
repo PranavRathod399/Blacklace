@@ -125,7 +125,7 @@ To simulate the behavior of a theoretical graphene-based amplifier for EEG signa
 **Key Visuals & Outputs:**
 
 ### Original EEG Signal (Simulated)
-![Original Signal](images/Original_signal.jpg)
+![Original Signal](images/Simulated_signal.jpg)
 
 ### Amplified EEG Signal
 ![Amplified Signal](images/Amplified_signals.jpg)
