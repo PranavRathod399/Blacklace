@@ -61,6 +61,24 @@ An adaptive neural decoding engine that uses deep learning to interpret amplifie
 ### 3. **Blacklace** – Integrated BCI Framework
 The overarching system that connects Blackjack and Blacknet, handling signal flow, system calibration, and future real-time communication features. Blacklace is designed to be scalable, open-source, and modular—ready to adapt to future research and experimental needs.
 
+## System Architecture Diagram
+
+```mermaid
+flowchart LR
+    A[Brain Signals] --> B[Blackjack Amplifier]
+    B --> C[Signal Processing Unit]
+    C --> D[Blacknet AI Decoder]
+    D --> E[Decoded Output]
+    B -.-> F[Graphene Model]
+    D -.-> G[Neural Pattern Training]
+    F --> C
+    G --> D
+    C --> H[Blacklace Controller]
+    H --> B
+    H --> D
+
+```
+
 ---
 
 ## Phase Status
