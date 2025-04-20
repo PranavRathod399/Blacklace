@@ -48,18 +48,18 @@ Blacklace/
 
 ---
 
-## Modules
+## System Architecture
 
-### 1. **Blackjack** – Graphene-Inspired Amplifier
-Simulates graphene-like signal amplification with noise filtering.
-- SNR improvement from ~17 dB to ~40 dB (simulated)
-- Bandpass filtering (0.5–100 Hz)
-- Adaptive for future EEG datasets
+Blacklace is structured into three core modules, each serving a distinct function within the BCI pipeline:
 
-### 2. **Blacknet** – AI Decoder (WIP)
-- Will decode amplified EEG into neural intent
-- Planned CNN + SNN hybrid architecture
-- Lightweight + modular interface
+### 1. **Blackjack** – Graphene-Based Neural Amplifier
+A modular, biologically-aware amplifier designed to boost raw neural signals with minimal distortion. Inspired by the electrical and quantum behavior of graphene, Blackjack aims to create a low-noise, high-gain signal interface between the brain and hardware.
+
+### 2. **Blacknet** – AI-Powered Signal Decoder *(Planned)*
+An adaptive neural decoding engine that uses deep learning to interpret amplified brain signals into meaningful output. Blacknet will learn from individual neural patterns, enabling personalized and accurate BCI control.
+
+### 3. **Blacklace** – Integrated BCI Framework
+The overarching system that connects Blackjack and Blacknet, handling signal flow, system calibration, and future real-time communication features. Blacklace is designed to be scalable, open-source, and modular—ready to adapt to future research and experimental needs.
 
 ---
 
