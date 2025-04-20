@@ -125,13 +125,13 @@ To simulate the behavior of a theoretical graphene-based amplifier for EEG signa
 **Key Visuals & Outputs:**
 
 ### Original EEG Signal (Simulated)
-![Original Signal](Blackjack/Images/Version2/Sim_eeg.png)
+![Original Signal](Images/Version2/Sim_eeg.png)
 
 ### Amplified EEG Signal
-![Amplified Signal](Blackjack/Images/Version2/Amp_eeg.png)
+![Amplified Signal](Images/Version2/Amp_eeg.png)
 
 ### SNR Calculation Visualization
-![SNR](Blackjack/Images/Version2/Snr-comparision.png)
+![SNR](Images/Version2/Snr-comparision.png)
 
 Full code and simulation in [Graphene_Amplifier1.ipynb](https://github.com/PranavRathod399/BCI_graphene_prototype/blob/main/Graphene_Amplifier1.ipynb)
 
