@@ -1,6 +1,6 @@
 # Blacklace – Modular BCI Framework
-
-A full-stack Brain-Computer Interface (BCI) system engineered from scratch, powered by simulated graphene amplification and modular AI decoding. Designed to function without lab-grade resources, pushing the boundaries of accessible neurotechnology.
+> Decode silent thoughts into action.
+> A full-stack Brain-Computer Interface (BCI) system engineered from scratch, powered by simulated graphene amplification and modular AI decoding. Designed to function without lab-grade resources, pushing the boundaries of accessible neurotechnology.
 
 ---
 
