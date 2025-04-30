@@ -254,7 +254,7 @@ For maximum insight and efficiency, we recommend this exploration sequence:
 
 For investment opportunities, partnerships, or detailed presentations:
 
-- **Email:** pranavrathod399@gmail.com  
+- **Email:** pranavr399@gmail.com  
 - **GitHub:** [@PranavRathod399](https://github.com/PranavRathod399)  
 
 ---
