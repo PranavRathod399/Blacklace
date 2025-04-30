@@ -157,11 +157,6 @@ flowchart LR
 
 ---
 
-## Vision
-To create a fully modular BCI system that works **without invasive hardware** or expensive lab setups — making brain-computer interaction open, lightweight, and powerful.
-
----
-
 ## Documentation and Guides
 
 | Resource | Description |
