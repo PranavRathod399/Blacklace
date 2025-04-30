@@ -16,6 +16,7 @@
 8. [Beyond Technology: A Movement](#beyond-technology-a-movement)
 9. [Join Us](#join-us)
 10. [Investor Guide](#investor-guide)
+11. [Getting started](#getting started)
 
 ## The Dawn of Thought-Native Technology
 
@@ -252,14 +253,113 @@ For maximum insight and efficiency, we recommend this exploration sequence:
 For investment opportunities, partnerships, or detailed presentations:
 
 - **Email:** pranavr399@gmail.com  
-- **GitHub:** [@PranavRathod399](https://github.com/PranavRathod399)  
+- **GitHub:** [@PranavRathod399](https://github.com/PranavRathod399)
 
 ---
 
 *Thank you for your interest in Blacklace — where human thought transcends the digital frontier.*
 
 ---
+## Getting Started
 
+### Prerequisites
+- Python 3.8+
+- Required packages: `numpy`, `scipy`, `matplotlib`, `pytorch`, `pandas`
+- Basic understanding of EEG signals and neural networks
+
+### Installation
+
+1. Clone the Blacklace repository:
+   ```bash
+   git clone https://github.com/PranavRathod399/Blacklace.git
+   cd Blacklace
+   ```
+
+2. Set up virtual environment (recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+### Quick Start Guide
+
+#### Running Simulations
+Try the graphene amplifier simulation:
+```bash
+python code/simulations/graphene_amplifier.py
+```
+
+#### Exploring the Blackjack Module
+Test the Blackjack module:
+```bash
+python code/blackjack/hardware_interface.py --simulate
+```
+
+#### Simple Signal Processing Demo
+```bash
+python code/simulations/eeg_processing.py --demo
+```
+
+---
+
+### Example Usage
+
+```python
+from blacklace.blackjack import SignalAmplifier
+from blacklace.blacknet import ModelInterface
+
+# Initialize the amplifier
+amplifier = SignalAmplifier(channels=8, sampling_rate=250)
+
+# Process sample data
+processed_signal = amplifier.process(raw_signal)
+
+# Decode signal
+decoder = ModelInterface(model_path="models/starter_model.pt")
+intent = decoder.decode(processed_signal)
+
+print(f"Detected intent: {intent}")
+```
+
+---
+
+### Development Setup
+
+For those looking to contribute:
+
+1. Install development dependencies:
+   ```bash
+   pip install -r requirements-dev.txt
+   ```
+
+2. Setup pre-commit hooks:
+   ```bash
+   pre-commit install
+   ```
+
+3. Run tests:
+   ```bash
+   pytest
+   ```
+
+---
+
+### Troubleshooting
+
+- **Signal noise issues**: Check system grounding and increase `noise_reduction` parameter.
+- **Model training failures**: Ensure training data is normalized.
+- **Hardware connection errors**: Verify USB connections and permissions.
+
+Need more help? [Open an issue](https://github.com/PranavRathod399/Blacklace/issues) or contact us directly.
+
+---
 © Blacklace Technologies | [License](LICENSE)
 
 > "Let the mind speak — and the machine listen."
