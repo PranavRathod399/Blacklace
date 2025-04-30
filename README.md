@@ -32,7 +32,7 @@ Born from a fusion of theoretical physics, material science, and cognitive techn
 <pre>
 Blacklace/
 ├── README.md                                  # Main project overview and introduction
-├── WHITEPAPER.md                              # Full whitepaper (from your PDF)
+├── WHITEPAPER.md                              # Full whitepaper 
 ├── docs/                                       # Documentation
 │   ├── architecture.md                         # System architecture overview
 │   ├── graphene_amplifier.md                   # Graphene-based signal amplifier (Blackjack)
