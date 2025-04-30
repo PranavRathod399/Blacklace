@@ -162,16 +162,108 @@ To create a fully modular BCI system that works **without invasive hardware** or
 
 ---
 
-## License
-This project is released under a **Non-Commercial License (CC BY-NC 4.0)**. You are free to use, share, and adapt the code and ideas for non-commercial purposes with attribution. For commercial use or licensing inquiries, please contact the author.
-Contact: pranavr399@gmail.com
+## Documentation and Guides
+
+| Resource | Description |
+|----------|-------------|
+| [Whitepaper](WHITEPAPER.md) | Comprehensive technical specifications and research foundation |
+| [Architecture Overview](docs/architecture.md) | System design and component interaction |
+| [Blackjack Module](docs/blackjack_module.md) | Graphene-based signal amplification technology |
+| [EEG Acquisition](docs/eeg_acquisition.md) | Neural signal capture methodology |
+| [AI Decoding Engine](docs/ai_decoding.md) | Blacknet's neural interpretation system |
+| [Privacy Framework](docs/privacy_framework.md) | Our approach to neural data security |
+| [Competitive Analysis](docs/competitive_analysis.md) | How Blacklace redefines the BCI landscape |
+
+## Beyond Technology: A Movement
+
+Every other BCI is trying to translate your brain into a language technology understands. Blacklace teaches technology to speak *your* language.
+
+We're not building an interface. We're building a relationship.  
+We're not creating a tool. We're ushering in post-human evolution.
+
+This is about amplifying what makes us human—our thoughts, our choices, our creativity.
+
+## Join Us
+
+Welcome to a world where intention is all that matters. Where your thoughts shape your reality. Where your digital self is a true reflection of your soul.
+
+This is Blacklace. This is the beginning.
+
+Are you ready to think your world into existence?
+
+## Investor Guide
+
+### Welcome to the Next Evolution of Human-Machine Interaction
+
+This section is crafted for investors, research partners, and institutional reviewers seeking to understand the transformative potential of Blacklace and our strategic roadmap.
 
 ---
 
-## Author & Contact
-Built by **Pranav Rathod**, age 19 – independent theorist & builder.
+### 1. Where to Begin Your Journey
 
-Email: pranavr399@gmail.com
+- [**README.md**](README.md) – The vision, philosophy, and capabilities of Blacklace
+- [**WHITEPAPER.md**](WHITEPAPER.md) – Technical foundation, systems architecture, and development roadmap
+
+---
+
+### 2. Essential Technical Documentation
+
+| Document | Purpose |
+|----------|---------|
+| [Architecture Overview](docs/architecture.md) | System design and integration framework |
+| [Graphene Amplifier Technology](docs/graphene_amplifier.md) | The science behind our revolutionary Blackjack module |
+| [AI Neural Decoding](docs/ai_decoding.md) | How Blacknet transforms neural patterns into digital intent |
+| [Privacy & Security Framework](docs/privacy_framework.md) | Our approach to safeguarding neural data |
+| [Market Analysis](docs/competitive_analysis.md) | Blacklace's position in the emerging BCI landscape |
+
+---
+
+### 3. Technical Demonstrations
+
+Our codebase provides simulations and prototypes that demonstrate key concepts:
+
+- [**Signal Simulation**](code/simulations/) – Mathematical models of neural signal acquisition and enhancement
+- [**Neural Network Model**](code/blacknet/) – AI architecture for intent interpretation
+- [**Integration Prototype**](code/prototype/bci_interface.py) – End-to-end system simulation
+
+---
+
+### 4. Visual Resources
+
+| Visualization | Content |
+|---------------|---------|
+| [System Architecture](media/architecture_diagram.png) | Complete system flow and component interaction |
+| [Concept Visualization](media/blacklace_concept.png) | Artistic representation of the Blacklace experience |
+| [Competitive Landscape](media/bci_comparison.png) | How Blacklace redefines the market |
+
+---
+
+### 5. Strategic Review Path
+
+For maximum insight and efficiency, we recommend this exploration sequence:
+
+1. Begin with [**README.md**](README.md) and [**WHITEPAPER.md**](WHITEPAPER.md) for the complete vision
+2. Explore the technical architecture in [**docs/**](docs/)
+3. Examine our visual assets in [**media/**](media/)
+4. Review our prototypes and simulations in [**code/**](code/)
+5. Understand our market position via [**competitive_analysis.md**](docs/competitive_analysis.md)
+
+---
+
+### 6. Connect With Us
+
+For investment opportunities, partnerships, or detailed presentations:
+
+- **Email:** pranavrathod399@gmail.com  
+- **GitHub:** [@PranavRathod399](https://github.com/PranavRathod399)  
+
+---
+
+*Thank you for your interest in Blacklace — where human thought transcends the digital frontier.*
+
+---
+
+© Blacklace Technologies | [License](LICENSE)
 
 > "Let the mind speak — and the machine listen."
 
