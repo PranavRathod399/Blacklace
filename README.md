@@ -32,32 +32,35 @@ Born from a fusion of theoretical physics, material science, and cognitive techn
 <pre>
 Blacklace/
 ├── README.md                                  # Main project overview and introduction
-├── WHITEPAPER.md                          # Full whitepaper (from your PDF)
-├── docs/                                               # Documentation
-│   ├── architecture.md                          # System architecture details
-│   ├── graphene_amplifier.md              # Details on the graphene sensor & amplifier
-│   ├── eeg_acquisition.md                   # EEG signal acquisition system
-│   ├── ai_decoding.md                         # Blacknet AI engine details
-│   ├── privacy_framework.md              # Privacy and security framework
-│   └── competitive_analysis.md           # Competitive landscape analysis
-├── research/                                        # Research materials and references
-│   ├── literature_review.md.                 # Summary of relevant research papers
-│   └── references.bib                           # Bibliography in BibTeX format
-├── code/                                              # Source code
-│   ├── simulations/                               # Simulation code for graphene amplifier and EEG
-│   │   ├── graphene_amplifier.py         # Graphene amplifier simulation
-│   │   └── eeg_processing.py              # EEG signal processing methods
-│   ├── blacknet/                                   # AI model architecture and training
-│   │   ├── model.py                             # Neural network architecture for EEG decoding
-│   │   └── training.py                           # Training procedures
-│   └── prototype/                                 # Prototype implementation code
-├── media/                                           # Images, diagrams, and videos
-│   ├── architecture_diagram.png        # System architecture diagram
-│   ├── bci_comparison.png                # BCI technology comparison chart
-│   └── blacklace_concept.png            # Concept visualization
-└── LICENSE                                      # Open source license
-```
-
+├── WHITEPAPER.md                              # Full whitepaper (from your PDF)
+├── docs/                                       # Documentation
+│   ├── architecture.md                         # System architecture overview
+│   ├── graphene_amplifier.md                   # Graphene-based signal amplifier (Blackjack)
+│   ├── blackjack_module.md                     # Modular amplifier system details
+│   ├── eeg_acquisition.md                      # EEG signal acquisition system
+│   ├── ai_decoding.md                          # Blacknet AI decoding engine documentation
+│   ├── privacy_framework.md                    # Privacy and data security framework
+│   └── competitive_analysis.md                 # Analysis of competing technologies
+├── research/                                   # Research materials and references
+│   ├── literature_review.md                    # Summary of related research
+│   └── references.bib                          # Bibliography in BibTeX format
+├── code/                                       # Source code
+│   ├── simulations/                            # Simulations
+│   │   ├── graphene_amplifier.py               # Graphene amplifier (Blackjack) simulation
+│   │   └── eeg_processing.py                   # Signal preprocessing and feature extraction
+│   ├── blackjack/                              # Modular amplifier system code
+│   │   ├── hardware_interface.py               # Simulated interface to EEG hardware
+│   │   └── signal_routing.py                   # Signal routing logic
+│   ├── blacknet/                               # AI model for EEG-to-intent decoding
+│   │   ├── model.py                            # Neural network model
+│   │   └── training.py                         # Model training code
+│   └── prototype/                              # Integration prototype code
+│       └── bci_interface.py                    # Core interface logic
+├── media/                                      # Visuals and media
+│   ├── architecture_diagram.png                # Overall system diagram
+│   ├── bci_comparison.png                      # Chart comparing BCI technologies
+│   └── blacklace_concept.png                   # Conceptual rendering
+└── LICENSE                                     # Open source license
 </pre>
 
 ---
