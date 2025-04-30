@@ -1,5 +1,7 @@
 # Blacklace
-
+> Decode silent thoughts into action.
+ > A full-stack Brain-Computer Interface (BCI) system engineered from scratch, powered by simulated graphene amplification and modular AI decoding. Pushing the boundaries of accessible neurotechnology.
+---
 ## Index
 
 1. [The Dawn of Thought-Native Technology](#the-dawn-of-thought-native-technology)
