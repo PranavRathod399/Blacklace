@@ -16,7 +16,7 @@
 8. [Beyond Technology: A Movement](#beyond-technology-a-movement)
 9. [Join Us](#join-us)
 10. [Investor Guide](#investor-guide)
-11. [Getting started](#getting started)
+11. [Getting started](#getting-started)
 
 ## The Dawn of Thought-Native Technology
 
