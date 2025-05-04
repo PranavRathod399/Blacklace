@@ -18,7 +18,7 @@ Our test results (Image 2) demonstrate graphene's remarkable amplification prope
 - This 1000x amplification factor maintains signal fidelity while significantly improving detectability
 
 ### 1.3 Frequency Response Characteristics
-
+![PSD](../media/graph-data/Power-spectral-density.png)
 The power spectral density analysis (Image 3) confirms graphene's effectiveness across all critical EEG frequency bands:
 - **Delta (0-4 Hz)**: Strong representation  
 - **Theta (4-8 Hz)**: Clear signal preservation  
