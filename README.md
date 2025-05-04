@@ -237,7 +237,7 @@ Our codebase provides simulations and prototypes that demonstrate key concepts:
 
 For maximum insight and efficiency, we recommend this exploration sequence:
 
-1. Begin with [**README.md**](README.md) and [**WHITEPAPER.md**]([Whitepaper].pdf) for the complete vision
+1. Begin with [**README.md**](README.md) and [**WHITEPAPER.pdf**]([Whitepaper].pdf) for the complete vision
 2. Explore the technical architecture in [**docs/**](docs/)
 3. Examine our visual assets in [**media/**](media/)
 4. Review our prototypes and simulations in [**code/**](code/)
