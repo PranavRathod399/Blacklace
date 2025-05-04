@@ -39,10 +39,6 @@ Traditional EEG amplification technologies face several limitations:
 - **Dry electrodes**: Very high impedance, poor contact stability
 - **Carbon nanotubes**: Good performance but complex manufacturing
   
-![orig-amp-data](../media/graph-data/Orig-vs-optimised_output.png)
-![heatmap](../media/graph-data/Heatmap.png)
-![temp-effect](../media/graph-data/Temp-effect.png)
-
 ### 2.2 Graphene Advantage
 
 Our graphene solution offers distinct advantages:
