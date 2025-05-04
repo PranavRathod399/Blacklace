@@ -105,7 +105,6 @@ Initial laboratory tests with these composites suggest:
 **Test Date: May 2, 2025**
 - Modified rGO electrode with 68% power reduction but 4.3 dB SNR loss
 - Exploring intermediate reduction levels
-- Successfully tested on flexible substrates with stable performance
 
 ### 4.2 Technical Improvements
 
@@ -154,20 +153,11 @@ The graphene amplifier project shows tremendous promise for revolutionizing EEG 
 
 Today we completed the initial characterization of our graphene composite materials. The Graphene-PEDOT:PSS composite continues to show the most promise for our power consumption challenges. Key observations:
 
-1. The 60/40 graphene-to-PEDOT:PSS ratio achieves the optimal balance between conductivity and power efficiency  
-2. Surface morphology analysis shows excellent integration between materials without significant phase separation  
-3. Electrochemical testing confirms stability over 1000+ testing cycles  
-4. Power consumption was reduced by 52.8% compared to our pure graphene baseline  
+1. The 60/40 graphene-to-PEDOT:PSS ratio achieves the optimal balance between conductivity and power efficiency   
+2. Electrochemical testing to confirm stability (pending)  
+3. Power consumption was reduced by 52.8% compared to our pure graphene baseline
 
 **Next steps**: Test frequency response characteristics, especially in the gamma band where signal attenuation was observed. Modify fabrication to enhance high-frequency performance.
-
-### 6.2 May 4, 2025: Miniaturization Progress
-
-Successfully reduced the amplifier footprint by 35% through:
-- Composite electrodes integrated directly onto flexible PCB
-- Multi-layer design with optimized signal routing
-- Custom ASIC replacing discrete components
-- Dynamic scaling in power management circuitry
 
 **Flexible prototype specs**:
 - Electrode area: 12 mm²  
