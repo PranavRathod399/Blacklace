@@ -197,7 +197,7 @@ This section is crafted for investors, research partners, and institutional revi
 ### 1. Where to Begin Your Journey
 
 - [**README.md**](README.md) – The vision, philosophy, and capabilities of Blacklace
-- [**WHITEPAPER.md**](WHITEPAPER.md) – Technical foundation, systems architecture, and development roadmap
+- [**WHITEPAPER.pdf**]([Whitepaper].pdf) – Technical foundation, systems architecture, and development roadmap
 
 ---
 
