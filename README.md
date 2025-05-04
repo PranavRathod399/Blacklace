@@ -161,7 +161,7 @@ The overarching system that connects Blackjack and Blacknet, handling signal flo
 
 | Resource | Description |
 |----------|-------------|
-| [Whitepaper](WHITEPAPER.md) | Comprehensive technical specifications and research foundation |
+| [Whitepaper]([Whitepaper].pdf) | Comprehensive technical specifications and research foundation |
 | [Architecture Overview](docs/architecture.md) | System design and component interaction |
 | [Blackjack Module](docs/blackjack_module.md) | Graphene-based signal amplification technology |
 | [EEG Acquisition](docs/eeg_acquisition.md) | Neural signal capture methodology |
