@@ -11,7 +11,7 @@ Based on our comparative analysis (as shown in Image 1), graphene demonstrates e
 - **Energy efficiency concerns**: While graphene shows the highest relative power consumption (approximately 550 normalized units), this trade-off is justified by the performance benefits.
 
 ### 1.2 Amplification Capabilities
-
+![Raw-Àmp](../media/graph-data/Raw-vs-Àmp.png)
 Our test results (Image 2) demonstrate graphene's remarkable amplification properties:
 - Raw EEG signals typically range between -40 to +40 μV
 - The graphene amplifier successfully boosts these signals to the -40,000 to +40,000 μV range
