@@ -119,7 +119,7 @@ Blacklace/
 ## 📊 Material Update: Graphene Composite
 
 Recent testing revealed unexpected results when transitioning from pure graphene to our composite graphene material:
-
+![Comparison.png](media/graph-data/Comparison.png)
 - ✅ **Lower Impedance**: ~800Ω (vs ~30kΩ for pure graphene)
 - ✅ **Higher SNR**: 51dB, outperforming all tested alternatives
 - ⚠️ **Surprising Power Draw**: 5x higher power consumption than traditional electrodes
