@@ -165,6 +165,9 @@ Today we completed the initial characterization of our graphene composite materi
 - Bend radius: 15 mm (no performance loss)  
 - Adhesion: Maintains skin contact during moderate activity
 
+### 6.2  May 4, 2025: Integrating Real eeg data (as provided by Dr. Henderson)
+
+
 ## 7. Appendix: Measurement Methodology  (after Finalizing) 
 
 ### 7.1 Test Setup
