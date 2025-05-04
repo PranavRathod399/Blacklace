@@ -116,7 +116,19 @@ Blacklace/
 </pre>
 
 ---
+## 📊 Material Update: Graphene Composite
 
+Recent testing revealed unexpected results when transitioning from pure graphene to our composite graphene material:
+
+- ✅ **Lower Impedance**: ~800Ω (vs ~30kΩ for pure graphene)
+- ✅ **Higher SNR**: 51dB, outperforming all tested alternatives
+- ⚠️ **Surprising Power Draw**: 5x higher power consumption than traditional electrodes
+
+See detailed analysis in our [graphene amplifier documentation](https://github.com/PranavRathod399/Blacklace/blob/main/docs/graphene_amplifier.md).
+
+We're investigating the power consumption anomaly while leveraging the superior electrical properties for high-fidelity biosignal applications.
+
+---
 ## System Architecture
 
 Blacklace is structured into three core modules, each serving a distinct function within the BCI pipeline:
