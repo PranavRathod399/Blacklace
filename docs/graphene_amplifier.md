@@ -25,7 +25,9 @@ The power spectral density analysis (Image 3) confirms graphene's effectiveness 
 - **Alpha (8-13 Hz)**: Excellent fidelity  
 - **Beta (13-30 Hz)**: Good representation  
 - **Gamma (30-50 Hz)**: Maintained signal integrity
-
+![orig-amp-data](../media/graph-data/Orig-vs-optimised_output.png)
+![heatmap](../media/graph-data/Heatmap.png)
+![temp-effect](../media/graph-data/Temp-effect.png)
 ## 2. Competitive Analysis
 
 ### 2.1 Current Market Solutions
