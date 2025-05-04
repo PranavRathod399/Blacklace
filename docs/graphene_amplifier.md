@@ -3,7 +3,7 @@
 ## 1. Why Graphene? A Strategic Choice
 
 ### 1.1 Material Properties Analysis
-
+![Comparison](media/graph-data/Comparison.png)
 Based on our comparative analysis (as shown in Image 1), graphene demonstrates exceptional properties that make it ideal for next-generation EEG amplification:
 
 - **Ultra-low electrode-skin impedance**: At approximately 900 Ω, graphene offers the lowest impedance among all tested materials, significantly lower than traditional options like Ag/AgCl (~5,000 Ω), gold (~7,000 Ω), and dry electrodes (~50,000 Ω).
