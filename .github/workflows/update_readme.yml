@@ -4,26 +4,30 @@ on:
   push:
     paths:
       - 'docs/Daily_logs/**.md'
-  workflow_dispatch:  # This enables manual triggering
-  schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-      - name: Run update_readme.py
-        run: |
-          python update_readme.py
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Update README with latest journal" || echo "No changes to commit"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10
+
+    - name: Run update script
+      run: python update_readme.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update README with latest journal" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
