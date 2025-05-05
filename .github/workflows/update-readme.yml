@@ -1,30 +1,30 @@
-name: Auto-Update README with Latest Journal
+name: Update README with Latest Journal
 
 on:
   push:
     paths:
-      - 'docs/Daily_logs/**'
+      - 'docs/Daily_logs/May-4.md'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.x
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Run update script
-      run: |
-        python update_readme.py
+      - name: Run update script
+        run: |
+          python update_readme.py
 
-    - name: Commit and push changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "Auto-update README with latest journal" || echo "No changes"
-        git push
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest journal"
+          git push
