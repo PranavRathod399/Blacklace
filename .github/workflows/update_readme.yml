@@ -1,0 +1,28 @@
+name: Update README with Latest Journal
+
+on:
+  push:
+    paths:
+      - 'docs/Daily_logs/**.md'
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run update_readme.py
+        run: |
+          python update_readme.py
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest journal" || echo "No changes to commit"
+          git push
