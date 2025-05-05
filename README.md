@@ -162,6 +162,7 @@ Recent testing revealed unexpected results when transitioning from pure graphene
 See detailed analysis in our [graphene amplifier documentation](https://github.com/PranavRathod399/Blacklace/blob/main/docs/graphene_amplifier.md).
 
 We're investigating the power consumption anomaly while leveraging the superior electrical properties for high-fidelity biosignal applications.
+
 ---
 
 ## Documentation and Guides
