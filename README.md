@@ -116,8 +116,10 @@ Blacklace/
 </pre>
 
 ---
+
 ## Latest Journal
-<!-- RECENT_JOURNAL -->
+
+- [May 4, 2025](docs/Daily_logs/2025-05-04.md)
 *Waiting for logs...*
 
 ---
