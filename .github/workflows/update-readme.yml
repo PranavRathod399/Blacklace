@@ -3,7 +3,7 @@ name: Auto-Update README with Latest Journal
 on:
   push:
     paths:
-      - 'research/Daily_logs/**'
+      - 'docs/Daily_logs/**'
 
 jobs:
   update-readme:
