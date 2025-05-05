@@ -116,9 +116,6 @@ Blacklace/
 </pre>
 
 ---
-## Latest Journal
-<!-- RECENT_JOURNAL -->
-*Waiting for logs...*
 
 ---
 
