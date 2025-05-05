@@ -119,6 +119,7 @@ Blacklace/
 ## Latest Journal
 <!-- RECENT_JOURNAL -->
 *Waiting for logs...*
+
 ---
 
 ## 📊 Material Update: Graphene Composite
