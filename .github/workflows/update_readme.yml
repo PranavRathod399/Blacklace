@@ -26,3 +26,8 @@ jobs:
           git add README.md
           git commit -m "Update README with latest journal" || echo "No changes to commit"
           git push
+on:
+  push:
+    paths:
+      - 'docs/Daily_logs/**.md'
+  workflow_dispatch:  # This enables manual triggering
