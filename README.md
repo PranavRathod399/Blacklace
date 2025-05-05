@@ -115,26 +115,6 @@ Blacklace/
 └── LICENSE                                     # Open source license
 </pre>
 
----
-
-## Latest Journal
-
-- [May 4, 2025](docs/Daily_logs/2025-05-04.md)
-*Waiting for logs...*
-
----
-
-## 📊 Material Update: Graphene Composite
-
-Recent testing revealed unexpected results when transitioning from pure graphene to our composite graphene material:
-![Comparison.png](media/graph-data/Comparison.png)
-- ✅ **Lower Impedance**: ~800Ω (vs ~30kΩ for pure graphene)
-- ✅ **Higher SNR**: 51dB, outperforming all tested alternatives
-- ⚠️ **Surprising Power Draw**: 5x higher power consumption than traditional electrodes
-
-See detailed analysis in our [graphene amplifier documentation](https://github.com/PranavRathod399/Blacklace/blob/main/docs/graphene_amplifier.md).
-
-We're investigating the power consumption anomaly while leveraging the superior electrical properties for high-fidelity biosignal applications.
 
 ---
 ## System Architecture
@@ -163,6 +143,25 @@ The overarching system that connects Blackjack and Blacknet, handling signal flo
 | Blackjack | Phase 2      | ⏳ Finalizing visuals |
 | Blacknet  | Phase 1 (Arch) | 🧠 In design   |
 
+---
+## Latest Journal
+
+- [May 4, 2025](docs/Daily_logs/2025-05-04.md)
+*Waiting for logs...*
+
+---
+
+## 📊 Material Update: Graphene Composite
+
+Recent testing revealed unexpected results when transitioning from pure graphene to our composite graphene material:
+![Comparison.png](media/graph-data/Comparison.png)
+- ✅ **Lower Impedance**: ~800Ω (vs ~30kΩ for pure graphene)
+- ✅ **Higher SNR**: 51dB, outperforming all tested alternatives
+- ⚠️ **Surprising Power Draw**: 5x higher power consumption than traditional electrodes
+
+See detailed analysis in our [graphene amplifier documentation](https://github.com/PranavRathod399/Blacklace/blob/main/docs/graphene_amplifier.md).
+
+We're investigating the power consumption anomaly while leveraging the superior electrical properties for high-fidelity biosignal applications.
 ---
 
 ## Documentation and Guides
