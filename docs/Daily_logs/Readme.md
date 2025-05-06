@@ -5,7 +5,7 @@ Hey there!
 Welcome to my daily task zone — a cozy little corner of the Blacknet AI project where I jot down what I’m building, thinking, and planning each day.
 
 This folder holds:
-- **Daily markdown files** like [May-4.md](2025-05-04.md), `May-5.md`, etc.
+- **Daily markdown files** like [May-5.md](2025-05-05.md), `May-6.md`, etc.
 - Snapshots of my progress as I design and develop the Blacknet AI engine
 - Logs of ideas, decisions, and reflections
 - A trail of thoughts from prototype to something powerful
