@@ -146,7 +146,7 @@ The overarching system that connects Blackjack and Blacknet, handling signal flo
 ---
 ## Latest Journal
 
-- [May 4, 2025](docs/Daily_logs/2025-05-04.md)
+- [May 5, 2025](docs/Daily_logs/2025-05-05.md)
 *Waiting for logs...*
 
 ---
