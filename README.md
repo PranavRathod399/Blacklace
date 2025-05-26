@@ -131,7 +131,7 @@ An adaptive neural decoding engine that uses deep learning to interpret amplifie
 The overarching system that connects Blackjack and Blacknet, handling signal flow, system calibration, and future real-time communication features. Blacklace is designed to be scalable, open-source, and modular—ready to adapt to future research and experimental needs.
 
 ## System Architecture Diagram
-![System-architecture](media/architecture/System-outline.jpg)
+![System-architecture](media/architecture/system_outline.jpg)
 
 ---
 
