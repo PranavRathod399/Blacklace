@@ -145,10 +145,7 @@ The overarching system that connects Blackjack and Blacknet, handling signal flo
 
 ---
 ## Latest Journal
--[View Progress Log – 6th May 2025](docs/Daily_logs/2025-05-06.md)
-
-*Waiting for logs...*
-
+-[View Progress Log – 26th May 2025](docs/Daily_logs/2025-05-26.md)
 ---
 
 ## 📊 Material Update: Graphene Composite
